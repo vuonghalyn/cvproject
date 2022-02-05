@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./style.css";
 
 function App() {
@@ -9,11 +8,7 @@ function App() {
         <header>
           <div class="banner-container">
             <img class="banner" src="./banner.jpeg" alt="Banner"></img>
-            <img
-              class="profile"
-              src="./Profile_pic.jpeg"
-              alt="Profile picture"
-            ></img>
+            <img class="profile" src="./Profile_pic.jpeg" alt="Profile"></img>
 
             <div class="header-box">
               <div class="header-box-left">
